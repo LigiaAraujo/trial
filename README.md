@@ -1,6 +1,6 @@
 # trial
 
-Material de Apoio
+Material de Consulta
 
 # Git na máquina
 
